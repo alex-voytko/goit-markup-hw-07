@@ -1,0 +1,35 @@
+.section-1 {
+    align-items: center;
+    padding: 200px 0 200px 0;
+    background-size: cover;
+    background-position: center;
+    background-color: var(--contrast-color);
+    background-image: linear-gradient(
+        to right,
+        rgba(47, 48, 58, 0.4), 
+        rgba(47, 48, 58, 0.4)
+    ), url(../img/section-hero/overlay-optimized.jpg);
+    .title {
+        font-weight: 900;
+        font-size: 44px;
+        line-height: 1.364;
+        text-align: center;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: var(--title-text-color);
+    }
+    .main-button {
+        display: block;
+        width: 200px;
+        height: 50px;
+        border-radius: 4px;
+        border: none;
+        margin: 30px auto 0 auto;
+        background-color: var(--accent-color);
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 1.875;
+        letter-spacing: 0.06em;
+        color: var(--title-text-color);
+    }
+}

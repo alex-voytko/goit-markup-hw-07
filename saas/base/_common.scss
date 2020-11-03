@@ -1,21 +1,21 @@
 *,
 *::before,
-*::after {
+*::after{
     margin: 0;
     padding: 0;
 }
-body {
+body{
     background: var(--title-text-color);
     font-family: 'Roboto', sans-serif;
     font-style: normal;
 }
-a {
+a{
     text-decoration: none;
     cursor: pointer;
 }
-button {
+button{
     cursor: pointer;
 }
-ul {
+ul{
     list-style: none;
 }

@@ -1,3 +1,19 @@
+
+// utils:
 @import "./utils/variables";
+
+// base:
 @import "./base/common";
 @import "./base/container";
+
+// components:
+@import "./components/header";
+@import "./components/header-portfolio";
+@import "./components/section-1";
+@import "./components/modal";
+@import "./components/general-styles";
+@import "./components/section-2";
+@import "./components/section-3";
+@import "./components/section-4";
+@import "./components/section-5";
+@import "./components/footer";

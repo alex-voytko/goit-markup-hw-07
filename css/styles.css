@@ -596,7 +596,6 @@ address {
     width: 231px;
     display: block;
     font-style: normal;
-    flex-wrap: wrap-reverse;
 }
 address li a {
     font-weight: 400;
@@ -820,7 +819,6 @@ address li:last-child {
 }
 .card-content {
     box-sizing: border-box;
-    z-index: 10;
     padding: 20px 24px;
     border-left: 1px solid #EEEEEE;
     border-right: 1px solid #EEEEEE;
