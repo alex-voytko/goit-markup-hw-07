@@ -3,7 +3,7 @@
     padding: 200px 0 200px 0;
     background-size: cover;
     background-position: center;
-    background-color: var(--contrast-color);
+    background-color: $contrast-color;
     background-image: linear-gradient(
         to right,
         rgba(47, 48, 58, 0.4), 
@@ -16,7 +16,7 @@
         text-align: center;
         letter-spacing: 0.06em;
         text-transform: uppercase;
-        color: var(--title-text-color);
+        color: $title-text-color;
     }
     .main-button {
         display: block;
@@ -25,11 +25,11 @@
         border-radius: 4px;
         border: none;
         margin: 30px auto 0 auto;
-        background-color: var(--accent-color);
+        background-color: $accent-color;
         font-weight: 700;
         font-size: 16px;
         line-height: 1.875;
         letter-spacing: 0.06em;
-        color: var(--title-text-color);
+        color: $title-text-color;
     }
 }
