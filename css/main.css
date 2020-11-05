@@ -6,8 +6,8 @@
 }
 
 body {
-  background: var(--title-text-color);
-  font-family: 'Roboto', sans-serif;
+  background: #FFFFFF;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
 }
 
@@ -49,7 +49,7 @@ ul {
 }
 
 .header-container .header-wrapper .link .web {
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
   line-height: 1.192;
@@ -786,7 +786,7 @@ footer .footer-wrapper address .address-text {
   font-size: 14px;
   line-height: 1.714;
   letter-spacing: 0.03em;
-  color: #ffffff;
+  color: #FFFFFF;
 }
 
 footer .footer-wrapper address li {

@@ -42,7 +42,7 @@
         h2{
             margin-bottom: 12px;
             font-style: normal;
-            font-weight: 700;
+            font-weight: $bold;
             font-size: 20px;
             line-height: 1,15;
             text-align: center;
@@ -79,7 +79,7 @@
                 display: block;
                 margin-bottom: 4px;
                 font-style: normal;
-                font-weight: 400;
+                font-weight: $regular;
                 font-size: 12px;
                 line-height: 1,167;
                 letter-spacing: 0.01em;
@@ -101,7 +101,7 @@
                 }
                 &::placeholder {
                 font-style: normal;
-                font-weight: 400;
+                font-weight: $regular;
                 font-size: 14px;
                 line-height: 1,143;
                 letter-spacing: 0.01em;
@@ -132,7 +132,7 @@
                     display: inline-block;
                     margin-left: 8.38px;
                     font-style: normal;
-                    font-weight: 400;
+                    font-weight: $regular;
                     font-size: 14px;
                     line-height: 1,714;
                     letter-spacing: 0.03em;

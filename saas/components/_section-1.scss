@@ -10,7 +10,7 @@
         rgba(47, 48, 58, 0.4)
     ), url(../img/section-hero/overlay-optimized.jpg);
     .title {
-        font-weight: 900;
+        font-weight: $black;
         font-size: 44px;
         line-height: 1.364;
         text-align: center;
@@ -26,7 +26,7 @@
         border: none;
         margin: 30px auto 0 auto;
         background-color: $accent-color;
-        font-weight: 700;
+        font-weight: $bold;
         font-size: 16px;
         line-height: 1.875;
         letter-spacing: 0.06em;

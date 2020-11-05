@@ -7,8 +7,8 @@
         align-items: center;
         .link{
             .web{
-                font-family: 'Raleway';
-                font-weight: 700;
+                font-family: $raleway;
+                font-weight: $bold;
                 font-size: 26px;
                 line-height: 1.192;
                 letter-spacing: 0.03em;
@@ -31,7 +31,7 @@
                     margin-right: 50px;
                     .link{
                         padding: 31px 0;
-                        font-weight: 500;
+                        font-weight: $medium;
                         font-size: 14px;
                         line-height: 1.143;
                         letter-spacing: 0.02em;
@@ -73,7 +73,7 @@
                 .link{
                     display: flex;
                     align-items: center;
-                    font-weight: 500;
+                    font-weight: $medium;
                     font-size: 14px;
                     line-height: 1.143;
                     letter-spacing: 0.02em;
